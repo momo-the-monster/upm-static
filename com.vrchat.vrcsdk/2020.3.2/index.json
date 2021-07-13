@@ -1,0 +1,11 @@
+{
+	"name" : "com.vrchat.vrcsdk",
+	"displayName" : "VRChat SDK - Base",
+	"version" : "2020.3.2",
+	"unity" : "2018.4",
+	"description" : "Base for VRChat SDK",
+	"_id" : "com.vrchat.vrcsdk@2020.3.2",
+	"dist" : {
+		"tarball" : "https://registry.npmjs.org/com.vrchat.vrcsdk/-/com.vrchat.vrcsdk-2020.3.2.tgz"
+	}
+}
